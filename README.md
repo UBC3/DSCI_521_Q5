@@ -8,7 +8,9 @@
 #    GNU General Public License for more details.
 
 
+Addition from Birinder Singh:
 
+You are doing good in the MDS program, trust me. You can make it :D
 
 ########################################################################
 #Housekeeping
